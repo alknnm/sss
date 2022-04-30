@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+    font-size: 14px;
+    height: 100%;
+    text-align: center;
+    background: #3690e4;
+    color: rgb(30, 18, 8);
+    overflow-y: auto;
+    font-family: 'Impact';
+}
+
+footer {
+    background-color: #484a4c;
+}
+
+body {
+    margin-left: 15px;
+}
